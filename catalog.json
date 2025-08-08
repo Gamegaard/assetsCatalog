@@ -1,1 +1,154 @@
-
+[
+  {
+    "name": "com.gamegaard.commandconsole",
+    "displayName": "Gamegaard Command Console",
+    "description": ".",
+    "repo": "CommandConsole",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.cyclessystem",
+    "displayName": "Gamegaard Cycle System",
+    "description": ".",
+    "repo": "CycleSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.dialoguesystem",
+    "displayName": "Gamegaard Dialogue System",
+    "description": ".",
+    "repo": "DialogueSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.fakeheightsystem",
+    "displayName": "Gamegaard Fake Height System",
+    "description": ".",
+    "repo": "FakeHeightSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.farmsystem",
+    "displayName": "Gamegaard Farm System",
+    "description": ".",
+    "repo": "FarmSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.gameevents",
+    "displayName": "Gamegaard Game Events",
+    "description": ".",
+    "repo": "GameEvents",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.ultimateinventory",
+    "displayName": "Gamegaard Inventory",
+    "description": "A complete and extensible inventory system for Unity, featuring slot-based item management, category organization, item stacking, drag-and-drop support, custom UI integration, ScriptableObject-based architecture, and compatibility with equipment and crafting systems.",
+    "repo": "UltimateInventorySystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.loadingsystem",
+    "displayName": "Gamegaard Loading System",
+    "description": "A simple and extensible loading screen system for scene transitions.",
+    "repo": "LoadingSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.minimap",
+    "displayName": "Gamegaard Minimap",
+    "description": ".",
+    "repo": "MinimapSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.pausesystem",
+    "displayName": "Gamegaard Pause System",
+    "description": ".",
+    "repo": "PauseSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.popuptextsystem",
+    "displayName": "Gamegaard Pop Up Text",
+    "description": "A powerful and extensible floating text system for displaying damage, healing, status effects, and more. Features animation curves, pooling, TextMeshPro support, and full runtime control.",
+    "repo": "PopupTextSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.questsystem",
+    "displayName": "Gamegaard Quest System",
+    "description": "A flexible and modular quest system for Unity projects, built to integrate seamlessly with the Gamegaard ecosystem.",
+    "repo": "QuestSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.scenewarpsystem",
+    "displayName": "Gamegaard Scene Warp System",
+    "description": "Manage scene transitions through unique spawn points with a robust, editor-friendly system and sample prefabs.",
+    "repo": "SceneWarpSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.scriptabledatabase",
+    "displayName": "Gamegaard Scriptable Database",
+    "description": "A scriptable database.",
+    "repo": "ScriptableDatabase",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.serializableattributes",
+    "displayName": "Gamegaard SerializableAttributes",
+    "description": "Expose complex values in editor to create serializable attributes.",
+    "repo": "SerializableAttributes",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.smartareas",
+    "displayName": "Gamegaard Smart Areas",
+    "description": "Smart and modular system for defining and interacting with 2D and 3D areas in Unity. Includes editable shapes, runtime queries, and custom SceneView handles for intuitive visual editing.",
+    "repo": "SmartAreas",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.statusconditionsystem",
+    "displayName": "Gamegaard Status Condition System",
+    "description": ".",
+    "repo": "StatusConditionSystem",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.textmotion",
+    "displayName": "Gamegaard Text Motion",
+    "description": ".",
+    "repo": "TextMotion",
+    "latestTag": "",
+    "visibility": "private"
+  },
+  {
+    "name": "com.gamegaard.transitionsystem",
+    "displayName": "Gamegaard Transition System",
+    "description": "A modular scene transition system with support for custom behaviors and integration with loading screens.",
+    "repo": "TransitionSystem",
+    "latestTag": "",
+    "visibility": "private"
+  }
+]
